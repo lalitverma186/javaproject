@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://localhost\:9000
+projectKey=com.practice\:XTestAnything
+serverUrl=
+version=2
